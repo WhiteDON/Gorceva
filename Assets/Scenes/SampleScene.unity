@@ -2951,7 +2951,6 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
-  m_ShouldActivateOnSelect: 1
 --- !u!114 &40764566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4106,14 +4105,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0421\u043E\u0432\u043E\u043A\u0443\u043F\u043D\u043E\u0441\u0442\u044C
-    \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0439 \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0437\u0443\u044E\u0449\u0438\u0445\u0441\u044F
-    \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u043C
-    \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u043E\u043C \u0432\u044B\u043F\u0443\u0441\u043A\u0430\u0435\u043C\u043E\u0439
-    \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0438\u0438, \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u043E\u0439
-    \u0431\u0430\u0437\u043E\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u043C\u0438
-    \u0441\u043F\u0435\u0446\u0438\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438
-    \u0443\u0441\u043B\u043E\u0432\u0438\u044F\u043C\u0438 \u2013 \u044D\u0442\u043E"
+  m_Text: "\u041A \u043E\u0431\u043E\u0440\u043E\u0442\u043D\u044B\u043C \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C
+    \u0444\u043E\u043D\u0434\u0430\u043C \u043E\u0442\u043D\u043E\u0441\u044F\u0442\u0441\u044F"
 --- !u!222 &50916426
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -82914,7 +82907,6 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
-  m_ShouldActivateOnSelect: 1
 --- !u!224 &1421282738
 RectTransform:
   m_ObjectHideFlags: 0
@@ -95410,7 +95402,6 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
-  m_ShouldActivateOnSelect: 1
 --- !u!114 &1619449496
 MonoBehaviour:
   m_ObjectHideFlags: 0
