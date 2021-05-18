@@ -178,7 +178,7 @@ public class Main : MonoBehaviourPunCallbacks
     {
         testnumber = int.Parse(TestNumberInputField.text.ToString());
         PhotonView photonView = PhotonView.Get(this);
-        photonView.RPC("Test", RpcTarget.All);
+        photonView.RPC("Test", RpcTarget.All, testnumber);
     }
     IEnumerator ExecuteAfterTime(float timeInSec)
       {
@@ -196,9 +196,9 @@ public class Main : MonoBehaviourPunCallbacks
        
       }
     [PunRPC]
-    public void Test()
+    public void Test(int testnumber)
     {
-        NumberOfTest.text = testnumber.ToString();
+        
         if(!PhotonNetwork.IsMasterClient)
         {
             TestForJuniors[testnumber].SetActive(true);
