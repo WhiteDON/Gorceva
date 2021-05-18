@@ -1291,8 +1291,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0435
-    \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u0422\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u0442\u0432\u0430
+    \u043D\u0430 \u0432\u0435\u0440\u0435"
 --- !u!222 &17195434
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5252,7 +5252,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: n
+          m_StringArgument: "\u043E\u0431\u0449\u0435\u0441\u0442\u0432\u043E \u0441
+            \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043D\u043E\u0439
+            \u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -7845,9 +7847,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u0442\u0440\u0430\u0441\u043B\u0438, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u0435
-    \u0442\u043E\u0432\u0430\u0440\u044B \u0438 \u043E\u0442\u0440\u0430\u0441\u043B\u0438,
-    \u043E\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0449\u0438\u0435 \u0443\u0441\u043B\u0443\u0433\u0438  "
+  m_Text: "\u041A\u043E\u043D\u0441\u043E\u0440\u0446\u0438\u0443\u043C"
 --- !u!222 &118942510
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15349,7 +15349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &240656380
 Transform:
   m_ObjectHideFlags: 0
@@ -20657,7 +20657,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0435 \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u041E\u0431\u0449\u0435\u0441\u0442\u0432\u043E \u0441 \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043D\u043E\u0439
+    \u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E"
 --- !u!222 &328115352
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22069,7 +22070,9 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 21
           m_FloatArgument: 0
-          m_StringArgument: n
+          m_StringArgument: "\u0432 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445
+            \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043F\u0440\u0430\u0432\u043E\u0432\u044B\u0445
+            \u0444\u043E\u0440\u043C\u0430\u0445"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -23396,11 +23399,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u0442\u0440\u0430\u0441\u043B\u0438, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u0435
-    \u0442\u043E\u0432\u0430\u0440\u044B, \u0438 \u043E\u0442\u0440\u0430\u0441\u043B\u0438,
-    \u0443\u0434\u043E\u0432\u043B\u0435\u0442\u0432\u043E\u0440\u044F\u044E\u0449\u0438\u0435
-    \u043E\u0434\u043D\u043E\u0440\u043E\u0434\u043D\u044B\u0435 \r\n    \u043F\u043E\u0442\u0440\u0435\u0431\u043D\u043E\u0441\u0442\u0438
-    \u043B\u044E\u0434\u0435\u0439\r\n"
+  m_Text: "\u041A\u043E\u043D\u0446\u0435\u0440\u043D\u044B"
 --- !u!222 &363850072
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -30705,17 +30704,8 @@ MonoBehaviour:
   TestsAnswers: []
   TestForJuniors:
   - {fileID: 786270577}
+  - {fileID: 786270577}
   - {fileID: 240656379}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
-  - {fileID: 786270577}
   LobbyNameinput: {fileID: 40764565}
   myDropdown: {fileID: 221493174}
   testnumber: 0
@@ -42226,7 +42216,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0416\u0438\u0432\u043E\u0439 \u0442\u0440\u0443\u0434"
+  m_Text: "\u041A\u043E\u043D\u0446\u0435\u0440\u043D\u044B"
 --- !u!222 &715797836
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -46617,9 +46607,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u0447\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u044F \u0438 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438,
-    \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u0435 \u043E\u0434\u043D\u043E\u0440\u043E\u0434\u043D\u0443\u044E
-    \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0438\u044E "
+  m_Text: "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0438\u044F"
 --- !u!222 &781667546
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -47651,7 +47639,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0422\u0440\u0443\u0434\u043E\u0432\u044B\u0435 \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u041F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435"
 --- !u!222 &810123920
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54257,8 +54245,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435
-    \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E"
 --- !u!222 &909314786
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55353,7 +55340,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &924067550
 Transform:
   m_ObjectHideFlags: 0
@@ -65840,7 +65827,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 21
           m_FloatArgument: 0
-          m_StringArgument: n
+          m_StringArgument: "\u0444\u0438\u0440\u043C\u0430"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -65981,7 +65968,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 31
           m_FloatArgument: 0
-          m_StringArgument: n
+          m_StringArgument: "\u043A\u043E\u043D\u0446\u0435\u0440\u043D\u044B"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -80976,9 +80963,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u043E\u0442\u0440\u0430\u0441\u043B\u044F\u043C, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u043C
-            \u0442\u043E\u0432\u0430\u0440\u044B (\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0435
-            \u0431\u043B\u0430\u0433\u0430)"
+          m_StringArgument: n
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -81566,7 +81551,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041D\u043E\u0441\u0438\u0442\u0435\u043B\u044C \u0442\u0440\u0443\u0434\u0430"
+  m_Text: "\u0425\u043E\u043B\u0434\u0438\u043D\u0433\u043E\u0432\u044B\u0435 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438"
 --- !u!222 &1391957016
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -83352,7 +83337,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0420\u044B\u043D\u043E\u043A \u0442\u0440\u0443\u0434\u0430"
+  m_Text: "\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0442\u0438\u0432\u043D\u044B\u0435
+    \u0444\u0438\u0440\u043C\u044B"
 --- !u!222 &1429283424
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -84273,8 +84259,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u0442\u0440\u0430\u0441\u043B\u044F\u043C, \u043D\u0435 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u043C
-    \u0442\u043E\u0432\u0430\u0440\u044B"
+  m_Text: "\u0412 \u0444\u043E\u0440\u043C\u0435 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u0442\u0432\u0430"
 --- !u!222 &1453919611
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -84889,7 +84874,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0442\u0440\u0443\u0434\u043E\u0432\u044B\u0435 \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+          m_StringArgument: n
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -86559,9 +86544,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 31
           m_FloatArgument: 0
-          m_StringArgument: "\u043E\u0442\u0440\u0430\u0441\u043B\u0438, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u0435
-            \u0442\u043E\u0432\u0430\u0440\u044B \u0438 \u043E\u0442\u0440\u0430\u0441\u043B\u0438,
-            \u043E\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0449\u0438\u0435 \u0443\u0441\u043B\u0443\u0433\u0438"
+          m_StringArgument: "\u043A\u043E\u043D\u0441\u043E\u0440\u0446\u0438\u0443\u043C"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -98784,8 +98767,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 31
           m_FloatArgument: 0
-          m_StringArgument: "\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435
-            \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+          m_StringArgument: n
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -100361,8 +100343,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0435
-    \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u0424\u0438\u0440\u043C\u0430"
 --- !u!222 &1740326732
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -103230,9 +103211,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u0442\u0440\u0430\u0441\u043B\u044F\u043C, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u043C
-    \u0442\u043E\u0432\u0430\u0440\u044B (\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0435
-    \u0431\u043B\u0430\u0433\u0430)"
+  m_Text: "\u0412 \u0444\u043E\u0440\u043C\u0435 \u0437\u0430\u043A\u0440\u044B\u0442\u043E\u0433\u043E
+    \u0430\u043A\u0446\u0438\u043E\u043D\u0435\u0440\u043D\u043E\u0433\u043E \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0430"
 --- !u!222 &1783560583
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -108974,7 +108954,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 21
           m_FloatArgument: 0
-          m_StringArgument: "\u0440\u044B\u043D\u043E\u043A \u0442\u0440\u0443\u0434\u0430"
+          m_StringArgument: n
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 519420033}
@@ -110422,7 +110402,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1936816205
 Transform:
   m_ObjectHideFlags: 0
@@ -111404,9 +111384,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041E\u0442\u0440\u0430\u0441\u043B\u044F\u043C, \u043D\u0435 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0438\u043C
-    \u0442\u043E\u0432\u0430\u0440\u044B \u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0435
-    \u0431\u043B\u0430\u0433\u0430"
+  m_Text: "\u0412 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043F\u0440\u0430\u0432\u043E\u0432\u044B\u0445
+    \u0444\u043E\u0440\u043C\u0430\u0445"
 --- !u!222 &1949422035
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -111862,8 +111841,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435
-    \u0440\u0435\u0441\u0443\u0440\u0441\u044B"
+  m_Text: "\u041F\u043E\u043B\u043D\u043E\u0435 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u0442\u0432\u043E"
 --- !u!222 &1960838057
 CanvasRenderer:
   m_ObjectHideFlags: 0
